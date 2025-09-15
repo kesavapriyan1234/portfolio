@@ -126,7 +126,7 @@
   <!-- About Section -->
   <section id="about">
     <h2>About Me</h2>
-    <p style="text-align:center;">I am <b>K. Kesavapriyan</b>, a passionate final-year BCA student. 
+    <p style="text-align:center;">I am <b>K. Kesavapriyan</b>, a passionate second-year BCA student. 
       I enjoy solving problems using programming languages and developing efficient software solutions. 
       My career goal is to grow as a skilled software developer while continuously learning new technologies.</p>
   </section>
@@ -154,15 +154,15 @@
       </tr>
       <tr>
         <td style="padding:10px; border:1px solid #ddd;">SSLC</td>
-        <td style="padding:10px; border:1px solid #ddd;">GHSS, Mkm</td>
+        <td style="padding:10px; border:1px solid #ddd;">GVR kadapakkam</td>
         <td style="padding:10px; border:1px solid #ddd;">2023</td>
         <td style="padding:10px; border:1px solid #ddd;">70%</td>
       </tr>
       <tr>
         <td style="padding:10px; border:1px solid #ddd;">HSC</td>
-        <td style="padding:10px; border:1px solid #ddd;">[Your School Name]</td>
-        <td style="padding:10px; border:1px solid #ddd;">[Year]</td>
-        <td style="padding:10px; border:1px solid #ddd;">[Marks/Grade]</td>
+        <td style="padding:10px; border:1px solid #ddd;">GVR kadapakkam</td>
+        <td style="padding:10px; border:1px solid #ddd;">2024</td>
+        <td style="padding:10px; border:1px solid #ddd;">85%</td>
       </tr>
       <tr>
         <td style="padding:10px; border:1px solid #ddd;">B.C.A</td>
@@ -178,7 +178,7 @@
     <div class="contact-info" style="text-align:center;">
       <p><b>Date of Birth:</b> [07/09/2007[index.html](https://github.com/user-attachments/files/22327417/index.html)
 ]</p>
-      <p><b>Address:</b> [Add Your Address]</p>
+      <p><b>Address:</b> [north mada street;kadukkalur village&post;cheyyur taluk;chengalpattu dis]</p>
       <p><b>Email:</b> <a href="mailto:honeyk72007@gmail.com">honeyk72007@gmail.com</a></p>
       <p><b>Mobile:</b> 9943090545</p>
     </div>
